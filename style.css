@@ -1,4 +1,32 @@
-<<<<<<< HEAD
+
 body{
-    background-color: rgb(143, 35, 143); }
+    background-color: rgb(143, 35, 143); 
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
     
